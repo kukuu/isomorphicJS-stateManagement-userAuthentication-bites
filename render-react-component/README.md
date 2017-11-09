@@ -1,3 +1,3 @@
-# reddiceknowing-your-basics
+# Knowing your basics
 
 Render react component
