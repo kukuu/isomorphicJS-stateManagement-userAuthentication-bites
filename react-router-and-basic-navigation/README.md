@@ -1,3 +1,3 @@
 # React Router
 
-react-router-and-basic-navigation
+React router and basic navigation.
