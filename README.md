@@ -1,10 +1,10 @@
 # Knowing your basics
 
-Managing complex Client and Server applications on nodeJS
+Managing complex Client and Server applications on nodeJS.
 
-## The exercises are constructed as modular services to facilitate easy understanding and easy deployment
+The exercises are constructed as modular services to facilitate easy understanding and easy deployment.
 
-### Technologies
+## Technologies
 
 ```
 "devDependencies": {
